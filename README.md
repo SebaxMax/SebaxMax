@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to @SebaxMax Page 🖐</h1></summary>
+    <summary><h1 style="display: inline-block"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to @SebaxMax Page <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1></summary>
   </ul>
 </div>
 
@@ -10,7 +10,7 @@
 </p>
 
 
-**Any offers to my DM on Discord or to my email** 💼
+**`Any offers to my DM on Discord or to my email`** 💼
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -22,8 +22,8 @@
 </p>  
 
 📂 Currently Projects:
-- **@ChavinStudios**
-- **@Soon..**
+- **@ChavinStudios** (Offline)
+- **Searchin..
 
 </p>  
 
@@ -41,9 +41,16 @@
   </a>
 </p>
 
-<p width="50%" align="center">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">👷‍♂️ My Github Statistics 👷‍♂️</h2></summary>
+  </ul>
+</div>
+
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SebaxMax&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  ![sebaxmax's github stats](https://github-readme-stats.vercel.app/api?username=sebaxmax&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
   
   </p>
 
@@ -52,7 +59,3 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=SebaxMax&color=red" alt="SebaxMax" />
  </p>
-<!---
-SebaxMax/SebaxMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
