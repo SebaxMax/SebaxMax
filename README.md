@@ -16,7 +16,7 @@
 
 - 🙍‍♂️ | I'm 17 years old 🇵🇪 (2006)
      
-- 📚 | I’m currently learning **Python**, **Java**, **C++** & **JavaScript** (*I started to programming since 2023*)
+- 📚 | I’m currently learning **Python**, **Java**, **HTML** & **JavaScript** (*I started to programming since 2023*)
   
 - 📫 | If you wanna contact me, send a mail on **sebaxmaxcontacto@gmail.com** or my Discord ID: `<@1218405397082148914>` or @sebaxmax
 </p>  
@@ -31,7 +31,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm learning..</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 I'm learning.. 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
