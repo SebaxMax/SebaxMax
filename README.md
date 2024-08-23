@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SebaxMax
-- 👀 I’m interested in be a good developer
-- 🌱 I’m currently learning Python, Java, C++ & JavaScript
-- 💞️ I’m looking to collaborate on servers
-- 📫 How to reach me sebaxmaxcontacto@gmail.com
-- 😄 Pronouns: s3bax
-- ⚡ Fun fact: code
+**Welcome to @SebaxMax Page** 🖐,
+Any offers to my DM on Discord or to my email.
+
+
+
+- 📚 I’m currently learning Python, Java, C++ & JavaScript
+- 📫 Email: sebaxmaxcontacto@gmail.com
 
 <!---
 SebaxMax/SebaxMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
